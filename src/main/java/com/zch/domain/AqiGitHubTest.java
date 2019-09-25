@@ -11,6 +11,8 @@ public class AqiGitHubTest {
 
  private  String address;
 
+ private  String aaaaa;
+
 
 
 }
