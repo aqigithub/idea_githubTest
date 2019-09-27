@@ -13,6 +13,11 @@ public class UserMapper {
   return 1;
  }
 
+ public void dele(AqiGitHubTest aqiGitHubTest){
+
+  System.out.printf("mapper里面的删除方法");
+
+ }
 
 
 }
